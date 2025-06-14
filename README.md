@@ -19,5 +19,6 @@ Colloid Gas Aphron(CGA) is a potent reservoir for gases like Hydrogen, but it's 
 - Method scalable and reproducible.
 
 ## 📂 Contents
-👉 [(./CGA.pptx)](https://github.com/Avik1947/Colloid-Gas-Aphron/blob/main/CGA%20.pptx)
+👉https://github.com/Avik1947/Colloid-Gas-Aphron/blob/main/CGA.pptx
+
 
